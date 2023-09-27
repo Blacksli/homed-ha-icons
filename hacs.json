@@ -1,0 +1,7 @@
+{
+  "name": "HOMEd Icons",
+  "filename": "homed-icons.js",
+  "render_readme": true,
+  "country": ["RU"],
+  "homeassistant": "2023.8.3"
+}
